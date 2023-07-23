@@ -1,12 +1,4 @@
 # Basic Query
-Di project ini saya akan mengeksplor Basic query dengan database Chinook menggunakan SQLite.
-Untuk mendownload database Chinook bisa ke link ini : https://www.sqlitetutorial.net/sqlite-sample-database/
-Berikut penjelasan sedikit mengenai Chinook DB. 
-|![image](https://github.com/zeinhanafi/SQLPortfolio/assets/36752861/6f521fd0-43fb-473e-bf90-be696fa43ae1)|
-|:--:|
-| Ini ERD dari database Chinook |
-|![image](https://github.com/zeinhanafi/SQLPortfolio/assets/36752861/c1554ae1-d82b-4a5a-9b48-a05dea3f1caa)|
-|Ini penjelasan mengenai tabel-tabel apa saja yang ada di Chinook|
 ## Select, Limit, Where, Order By
 Ada 4 perintah yang akan saya pelajari kali ini: 
 - Select : berfungsi untuk mengambil data. Besar kecilnya data yang diambil tergantung kita yang menentukan.
@@ -59,6 +51,19 @@ limit 10
 |:--:|
 |Ambil semua kolom dan tampilkan hanya 10 baris saja.|
 ## Perintah Dasar - Limit - 2
-
-
-
+Ambil sebagian kolom dan tampilkan hanya 5 baris data saja. 
+```
+/*Show 7 column from tabel customers and limit rows to show only 5 rows*/
+select CustomerId
+, FirstName
+, Address
+, City
+, State
+, Country
+, Phone
+from customers
+limit 5
+```
+|![image](https://github.com/zeinhanafi/SQLPortfolio/assets/36752861/61cc2a8f-7c87-45de-8b73-a3f0493919c8)|
+|:--:|
+|Ambil sebagian kolom dan tampilkan hanya 5 baris data saja|
