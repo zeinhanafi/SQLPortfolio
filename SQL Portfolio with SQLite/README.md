@@ -16,3 +16,5 @@ Berikut penjelasan sedikit mengenai Chinook DB.<br>
 |![image](https://github.com/zeinhanafi/SQLPortfolio/assets/36752861/c1554ae1-d82b-4a5a-9b48-a05dea3f1caa)|
 |:--:|
 |Ini penjelasan mengenai tabel-tabel apa saja yang ada di Chinook|
+
+Untuk simple query kita pakai raka_food DB. 
