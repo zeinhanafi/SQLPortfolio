@@ -1,4 +1,9 @@
 # Basic Query
+Table of contents
+- [Select](https://github.com/zeinhanafi/SQLPortfolio/edit/main/SQL%20Portfolio%20with%20SQLite/Basic%20Query.md#select)
+- [Limit](https://github.com/zeinhanafi/SQLPortfolio/edit/main/SQL%20Portfolio%20with%20SQLite/Basic%20Query.md#limit)
+- [Where](https://github.com/zeinhanafi/SQLPortfolio/edit/main/SQL%20Portfolio%20with%20SQLite/Basic%20Query.md#limit)
+- [Order by](https://github.com/zeinhanafi/SQLPortfolio/edit/main/SQL%20Portfolio%20with%20SQLite/Basic%20Query.md#limit)
 ## Select, Limit, Where, Order By
 Ada 4 perintah yang akan saya pelajari kali ini: 
 - Select : berfungsi untuk mengambil data. Besar kecilnya data yang diambil tergantung kita yang menentukan.
