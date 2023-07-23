@@ -1,5 +1,5 @@
 # SQL Portfolio with SQLite
-Di project ini saya akan mengeksplor Basic query dengan database Chinook menggunakan SQLite.<br>
+Di project ini saya akan mengeksplor Basic query dengan database Chinook dan raka_food menggunakan SQLite.<br>
 <br>
 Untuk pengerjaan query-query ini sudah saya pisah ke beberapa file untuk bisa dipahami lebih dalam (karena kalau ditaruh di sini semua jadinya panjang sekali filenya).<br>
 Berikut file-filenya: 
