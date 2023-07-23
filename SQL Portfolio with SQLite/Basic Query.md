@@ -43,5 +43,22 @@ from customers
 |![image](https://github.com/zeinhanafi/SQLPortfolio/assets/36752861/4ae28b35-54f4-4a1e-8720-19fea05266e5)|
 |:--:|
 |Ambil 7 kolom dari tabel customers|
-#
+# Limit
+Ada dua task untuk menjalankan perintah **Limit**. 
+- Ambil semua kolom dan tampilkan hanya 10 baris data saja.
+- Ambil sebagian kolom dan tampilkan hanya 5 baris data saja.
+## Perintah Dasar - Limit - 1
+Ambil semua kolom dan tampilkan hanya 10 baris data saja. 
+```
+/*Show all columns from table customers and limit rows to show only 10 rows*/
+select *
+from customers 
+limit 10
+```
+|![image](https://github.com/zeinhanafi/SQLPortfolio/assets/36752861/63289ade-5555-4d67-8e15-095deead8d01)|
+|:--:|
+|Ambil semua kolom dan tampilkan hanya 10 baris saja.|
+## Perintah Dasar - Limit - 2
+
+
 
