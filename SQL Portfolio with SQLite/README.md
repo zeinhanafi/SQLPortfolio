@@ -10,3 +10,4 @@ Berikut penjelasan sedikit mengenai Chinook DB.
 Untuk pengerjaan query-query ini sudah saya pisah ke beberapa file untuk bisa dipahami lebih dalam (karena kalau ditaruh di sini semua jadinya panjang sekali filenya).<br>
 Berikut file-filenya: 
 - [Basic Query](https://github.com/zeinhanafi/SQLPortfolio/blob/main/SQL%20Portfolio%20with%20SQLite/Basic%20Query.md#basic-query)
+  - [Basic Query Challenge](https://github.com/zeinhanafi/SQLPortfolio/blob/main/SQL%20Portfolio%20with%20SQLite/Basic%20Query%20-%20Challenges.md) 
